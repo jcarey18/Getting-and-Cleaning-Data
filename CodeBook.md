@@ -1,8 +1,3 @@
----
-title: "CodeBook.md"
-output: html_document
----
-
 # Getting and Cleaning Data Code Book
 
 This code book summarized the tidy data set TidyData.txt 
